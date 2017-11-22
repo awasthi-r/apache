@@ -9,6 +9,6 @@ node "sunny-ec2-test-002-agent.openstacklocal" {
         owner => "root",
         group => "root",
         mode => 0777,
-        content => "kjzxvjskdgfvjkdsvkjdsvhdkjvdjkvhe",
+        content => "TESTETST",
         }
 }
